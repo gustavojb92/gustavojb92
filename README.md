@@ -2,7 +2,7 @@
 Bem-vindo ✌✌ </br>
 Eu sou Gustavo, um DEV em construção...</br>
 <s>(Logo, não sei o que tô fazendo, mas tá funcionando.)</s></br>
-HTML = 
+HTML = &#128151 
 
 <div align="center">
   <a href="https://github.com/gustavojb92">
