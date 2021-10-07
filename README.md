@@ -1,7 +1,7 @@
 ### Oi, tudo bem?👀👀</br>
 Bem-vindo ✌✌ </br>
 Eu sou Gustavo, um DEV em construção...</br>
-<s>(Logo, não sei o que tô fazendo, mas tá funcionando.)</s></br>
+<s>(Não sei o que tô fazendo, mas tá funcionando.)</s></br>
 HTML = ❤
 
 <div align="center">
