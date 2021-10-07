@@ -9,4 +9,4 @@ HTML = ❤
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavojb92&show_icons=false&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojb92&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
