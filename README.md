@@ -1,7 +1,8 @@
 ### Oi, tudo bem?👀👀</br>
 Bem-vindo ✌✌ </br>
 Eu sou Gustavo, um DEV em construção...</br>
-(Logo, não sei o que tô fazendo, mas tá funcionando )
+<s>(Logo, não sei o que tô fazendo, mas tá funcionando.)</s></br>
+HTML = 
 
 <div align="center">
   <a href="https://github.com/gustavojb92">
