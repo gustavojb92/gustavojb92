@@ -2,7 +2,7 @@
 Bem-vindo ✌✌ </br>
 Eu sou Gustavo, um DEV em construção...</br>
 <s>(Não sei o que tô fazendo, mas tá funcionando.)</s></br>
-HTML = ❤
+HTML + CSS = ❤
 
 <div align="center">
   <a href="https://github.com/gustavojb92">
