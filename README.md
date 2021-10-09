@@ -2,6 +2,7 @@
 Bem-vindo ✌✌ </br>
 Eu sou Gustavo, um DEV em construção...</br>
 <s>(Não sei o que tô fazendo, mas tá funcionando.)</s></br>
+<s>(Pelo menos estava, eu acho)</s></br>
 HTML + CSS = ❤
 
 <div align="center">
