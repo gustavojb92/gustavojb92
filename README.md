@@ -1,8 +1,8 @@
 
 <div align="center" style="color: rgb(14,255,6)">
-<span style="color:green">
+
 ### Oi, tudo bem?👀👀</br>
-</span>
+
 <span style="color:green">
 Bem-vindo ✌✌ </br>
 </span>
