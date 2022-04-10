@@ -1,11 +1,10 @@
 
 <div align="center" style="color: rgb(14,255,6)">
-### Oi, tudo bem?👀👀</br>
-Bem-vindo ✌✌ </br>
-Eu sou Gustavo, um DEV em construção...</br>
-<s>(Não sei o que tô fazendo, mas tá funcionando.)</s></br>
-<s>(Pelo menos estava, eu acho)</s></br>
-HTML + CSS = ❤
++ ### Oi, tudo bem?👀👀</br>
++ Bem-vindo ✌✌ </br>
++ Eu sou Gustavo, um DEV em construção...</br>
++ <s>(Não sei o que tô fazendo, mas tá funcionando.)</s></br>
++ <s>(Pelo menos estava, eu acho)</s></br></br>
 </div?
 
 <div align="center">
