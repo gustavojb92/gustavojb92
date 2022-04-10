@@ -13,7 +13,7 @@
 ![Snake animation](https://github.com/gustavojb92/gustavojb92/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavojb92" alt="gustavojb92" /></a> </p>
-📩<a>gustavojardimdebarros@gmail.com</a>
+📩 <a href = "mailto: gustavojardimdebarros@gmail.com">gustavojardimdebarros@gmail.com</a>
 
 
 
