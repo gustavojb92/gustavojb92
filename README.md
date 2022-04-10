@@ -1,5 +1,6 @@
 
-<div align="center" class="color">
+<div align="center" style=" background-color: rgb(0.0.0)
+    color: rgb(14,255,6)">
 ### Oi, tudo bem?👀👀</br>
 Bem-vindo ✌✌ </br>
 Eu sou Gustavo, um DEV em construção...</br>
@@ -16,10 +17,3 @@ HTML + CSS = ❤
 
   ![Snake animation](https://github.com/gustavojb92/gustavojb92/blob/output/github-contribution-grid-snake.svg)
 
-  
-<style>
- .color{
-    background-color: rgb(0.0.0)
-    color: rgb(14,255,6)
-  }
-</style>  
