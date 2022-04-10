@@ -1,10 +1,20 @@
 
 <div align="center" style="color: rgb(14,255,6)">
-<span style="color:green">### Oi, tudo bem?👀👀</br></span>
-<span style="color:green">Bem-vindo ✌✌ </br></span>
-<span style="color:green">Eu sou Gustavo, um DEV em construção...</br></span>
-<span style="color:green"><s>(Não sei o que tô fazendo, mas tá funcionando.)</s></br></span>
-<span style="color:green"><s>(Pelo menos estava, eu acho)</s></br></br></span>
+<span style="color:green">
+### Oi, tudo bem?👀👀</br>
+</span>
+<span style="color:green">
+Bem-vindo ✌✌ </br>
+</span>
+<span style="color:green">
+Eu sou Gustavo, um DEV em construção...</br>
+</span>
+<span style="color:green">
+<s>(Não sei o que tô fazendo, mas tá funcionando.)</s></br>
+</span>
+<span style="color:green">
+<s>(Pelo menos estava, eu acho)</s></br></br>
+</span>
 </div?
 
 <div align="center">
