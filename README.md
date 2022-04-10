@@ -1,9 +1,12 @@
+
+<div align="center" class="color">
 ### Oi, tudo bem?👀👀</br>
 Bem-vindo ✌✌ </br>
 Eu sou Gustavo, um DEV em construção...</br>
 <s>(Não sei o que tô fazendo, mas tá funcionando.)</s></br>
 <s>(Pelo menos estava, eu acho)</s></br>
 HTML + CSS = ❤
+</div?
 
 <div align="center">
   <a href="https://github.com/gustavojb92">
@@ -14,3 +17,9 @@ HTML + CSS = ❤
   ![Snake animation](https://github.com/gustavojb92/gustavojb92/blob/output/github-contribution-grid-snake.svg)
 
   
+<style>
+ .color{
+    background-color: rgb(0.0.0)
+    color: rgb(14,255,6)
+  }
+</style>  
