@@ -9,9 +9,11 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavojb92&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojb92&layout=compact&langs_count=7&theme=dark"/>
   </div>
-  ![Snake animation](https://github.com/gustavojb92/gustavojb92/blob/output/github-contribution-grid-snake.svg)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavojb92" alt="gustavojb92" /></a> </p>
+ 
+![Snake animation](https://github.com/gustavojb92/gustavojb92/blob/output/github-contribution-grid-snake.svg)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavojb92" alt="gustavojb92" /></a> </p>
+📩gustavojardimdebarros@gmail.com
 
 
 
