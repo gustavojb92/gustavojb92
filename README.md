@@ -1,6 +1,5 @@
 
-<div align="center" style=" background-color: rgb(0.0.0)
-    color: rgb(14,255,6)">
+<div align="center" style="color: rgb(14,255,6)">
 ### Oi, tudo bem?👀👀</br>
 Bem-vindo ✌✌ </br>
 Eu sou Gustavo, um DEV em construção...</br>
